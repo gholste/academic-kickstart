@@ -16,22 +16,18 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 <!---bio: My research interests include distributed robotics, mobile computing and programmable matter.--->
 
-<!---interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval--->
+---interests:
+- Medical Image Analysis
+- Computer Vision
+- Deep Learning
+- Automated Diagnostics
+- Multimodal Learning
 
-<!---education:
+---education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008--->
+  - course: BA in Mathematics, *summa cum laude*
+    institution: Kenyon College
+    year: 05/2020--
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
