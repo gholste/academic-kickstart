@@ -6,7 +6,7 @@ title: Greg Holste
 superuser: true
 
 # Role/position
-role: Computer Science PhD Applicant
+role: Fall 2021 PhD Applicant
 
 # Organizations/Affiliations
 organizations:
@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-I am a post-baccalaureate researcher with the Medical Imaging and Data Integration (MIDI) Lab at Michigan State University applying to PhD programs in computer science, electrical engineering, and biomedical informatics starting Fall 2021. My interests broadly span medical image analysis, computer vision, deep learning, and automated diagnostics.
+I am a recent graduate of Kenyon College applying to Ph.D. programs in computer science, electrical engineering, and biomedical informatics for Fall 2021 enrollment. My interests broadly span **medical image analysis**, **computer vision**, **deep learning**, and **automated diagnostics**. Currently, I am a post-baccalaureate researcher with the [Medical Imaging and Data Integration (MIDI) Lab](https://www.midilab.org/) at Michigan State University working on multimodal approaches to breast cancer classification and rib fracture detection.
