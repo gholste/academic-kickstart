@@ -16,18 +16,18 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 <!---bio: My research interests include distributed robotics, mobile computing and programmable matter.--->
 
----interests:
+interests:
 - Medical Image Analysis
 - Computer Vision
 - Deep Learning
 - Automated Diagnostics
 - Multimodal Learning
 
----education:
+education:
   courses:
   - course: BA in Mathematics, *summa cum laude*
     institution: Kenyon College
-    year: 05/2020--
+    year: 05/2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
