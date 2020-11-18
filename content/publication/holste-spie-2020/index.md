@@ -19,11 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of SPIE Medical Imaging: Image Processing*
+publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Chest radiographs are a common diagnostic tool in pediatric care, and several computer-augmented decision tasks for radiographs would benefit from knowledge of the anatomic locations within the thorax. For example, a pre-segmented chest radiograph could provide context for algorithms designed for automatic grading of catheters and tubes. This work develops a deep learning approach to automatically segment chest radiographs into multiple regions to provide anatomic context for future automatic methods. This type of segmentation offers challenging aspects in its goal of multi-class segmentation with extreme class imbalance between regions. In an IRB-approved study, pediatric chest radiographs were collected and annotated with custom software in which users drew boundaries around seven regions of the chest: left and right lung, left and right subdiaphragm, spine, mediastinum, and carina. We trained a U-Net-style architecture on 328 annotated radiographs, comparing model performance with various combinations of loss functions, weighting schemes, and data augmentation. On a test set of 70 radiographs, our best-performing model achieved 93.8% mean pixel accuracy and a mean Dice coefficient of 0.83. We find that (1) cross-entropy consistently outperforms generalized Dice loss, (2) light augmentation, including random rotations, improves overall performance, and (3) pre-computed pixel weights that account for class frequency provide small performance boosts. Overall, our approach produces realistic eight-class chest segmentations that can provide anatomic context for line placement and potentially other medical applications.
-
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -36,13 +35,13 @@ links:
 - name: Custom Link
   url: http://example.org
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: ''
-url_dataset: ''
-url_poster: ''
+url_code: '#'
+url_dataset: '#'
+url_poster: '#'
 url_project: ''
 url_slides: ''
-url_source: ''
-url_video: ''
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
