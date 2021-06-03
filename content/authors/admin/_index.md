@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-  - course: M.S., Ph.D. in Electrical Engineering
+  - course: Ph.D. in Electrical Engineering
     institution: The University of Texas at Austin
     year: 2021-present
   - course: B.A. in Mathematics
@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-I am an incoming Ph.D. student in Electrical Engineering at The University of Texas at Austin. I will be joining the [**V**isual **I**nformatics @ U**T** **A**ustin (VITA)](https://vita-group.github.io/index.html) group under the supervision of [Atlas Wang](https://spark.adobe.com/page/CAdrFMJ9QeI2y/) to work on computer vision problems with applications in medicine. Previously, I have worked with the [Medical Imaging and Data Integration (MIDI) Lab](https://www.midilab.org/) at Michigan State University under Adam Alessio on multimodal learning for breast cancer prediction and pediatrib rib fracture detection.
+I am an incoming Ph.D. student in Electrical Engineering at The University of Texas at Austin. I will be joining the [**V**isual **I**nformatics @ U**T** **A**ustin (VITA)](https://vita-group.github.io/index.html) group under the supervision of [Atlas Wang](https://spark.adobe.com/page/CAdrFMJ9QeI2y/) to work on computer vision problems with applications in medicine. Previously, I have worked with the [Medical Imaging and Data Integration (MIDI) Lab](https://www.midilab.org/) at Michigan State University under Adam Alessio on multimodal learning for breast cancer prediction and pediatric rib fracture detection.
