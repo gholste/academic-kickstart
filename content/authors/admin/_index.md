@@ -6,7 +6,7 @@ title: Greg Holste
 superuser: true
 
 # Role/position
-role: Fall 2021 PhD Applicant
+role: Incoming Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -25,9 +25,12 @@ interests:
 
 education:
   courses:
-  - course: BA in Mathematics
+  - course: M.S., Ph.D. in Electrical Engineering
+    institution: The University of Texas at Austin
+    year: 2021-present
+  - course: B.A. in Mathematics
     institution: Kenyon College
-    year: 2020
+    year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -62,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-I am a recent graduate of Kenyon College applying to Ph.D. programs in computer science, electrical engineering, and biomedical informatics for Fall 2021 enrollment. My interests broadly span **medical image analysis**, **computer vision**, **deep learning**, and **automated diagnostics**. Currently, I am a post-baccalaureate researcher with the [Medical Imaging and Data Integration (MIDI) Lab](https://www.midilab.org/) at Michigan State University working on multimodal approaches to breast cancer classification and rib fracture detection.
+I am an incoming Ph.D. student in Electrical Engineering at The University of Texas at Austin. I will be joining the [**V**isual **I**nformatics @ U**T** **A**ustin (VITA)](https://vita-group.github.io/index.html) group under the supervision of [Atlas Wang](https://spark.adobe.com/page/CAdrFMJ9QeI2y/) to work on computer vision problems with applications in medicine. Previously, I have worked with the [Medical Imaging and Data Integration (MIDI) Lab](https://www.midilab.org/) at Michigan State University under Adam Alessio on multimodal learning for breast cancer prediction and pediatrib rib fracture detection.
