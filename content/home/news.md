@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 title: News
-weight: 15
+weight: 20
 design:
   columns: '1'
 ---
