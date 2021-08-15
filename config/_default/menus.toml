@@ -21,21 +21,21 @@
 [[main]]
   name = "News"
   url = "#news"
-  weight = 15
+  weight = 20
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 30
+  weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
 [[main]]
     name = "CV"
     url = "media/Holste_CV_081321.pdf"
-    weight = 40
+    weight = 50
