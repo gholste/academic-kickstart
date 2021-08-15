@@ -6,7 +6,7 @@ title: Greg Holste
 superuser: true
 
 # Role/position
-role: Ph.D. Student
+role: Ph.D. Student<br>[ECE](https://www.ece.utexas.edu) at UT Austin
 
 # Organizations/Affiliations
 organizations:
