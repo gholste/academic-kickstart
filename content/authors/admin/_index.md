@@ -17,11 +17,11 @@ organizations:
 <!---bio: My research interests include distributed robotics, mobile computing and programmable matter.--->
 
 interests:
-- Medical Image Analysis
-- Computer Vision
-- Deep Learning
-- Automated Diagnostics
+- Medical Computer Vision
+- Automated Diagnosis
 - Multimodal Learning
+- Self-Supervised Learning
+- Imbalanced Learning
 
 education:
   courses:
