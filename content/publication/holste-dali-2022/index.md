@@ -1,13 +1,15 @@
 ---
-title: "End-to-End Learning of Fused Image and Non-Image Features for Improved Breast Cancer Classification from MRI"
+title: "Long-Tailed Classification of Thorax Diseases on Chest X-Ray: A New Benchmark Study"
 authors:
 - Gregory Holste
-- Savannah Partridge
-- Habib Rahbar
-- Debosmita Biswas
-- Christoph Lee
-- Adam Alessio
-date: "2021-10-08T00:00:00Z"
+- Song Wang
+- Ziyu Jiang
+- Thomas C. Shen
+- George Shih
+- Ronald M. Summers
+- Yifan Peng
+- Zhangyang Wang
+date: "2022-29-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,22 +22,22 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *Computer Vision for Automated Medical Diagnosis (ICCV Workshop)*"
-publication_short: "*CVAMD 2021*"
+publication: "arXiv Preprint"
+publication_short: "arXiv"
 
-abstract: "Breast cancer diagnosis is inherently multimodal. To assess a patient’s cancer status, physicians integrate imaging findings with a variety of clinical risk factor data. Despite this, deep learning approaches for automatic breast cancer classification often only utilize image data or non-image clinical data, but not both simultaneously. In this work, we implemented and compared strategies for the fusion of imaging and tabular non-image data in an end-to-end trainable manner, evaluating fusion at different stages in the model (fusing intermediate features vs. output probabilities) and with different operations (concatenation vs. addition vs. multiplication). This retrospective study utilized dynamic contrast-enhanced MRI (DCE-MRI) data from 10,185 breast MRI examinations of 5,248 women. DCE-MRIs were reduced to 2D maximum intensity projections, split into single-breast images, then linked to a set of 18 non-image features including clinical indication and mammographic breast density. We first trained unimodal baseline models on images alone and non-image data alone. We then developed three multimodal fusion models that learn jointly from image and non-image data, evaluating performance by area under the receiver operating characteristic curve (AUC) and specificity at 95% sensitivity. The image-only baseline achieved an AUC of 0.849 (95% CI: 0.834, 0.864) and specificity at 95% sensitivity of 30.1% (95% CI: 23.1%, 37.0%), while the best-performing fusion model achieved an AUC of 0.898 (95% CI: 0.885, 0.909) and specificity of 49.1% (95% CI: 38.8%, 55.3%). Furthermore, all three fusion methods significantly outperformed both unimodal baselines with respect to AUC and specificity at 95% sensitivity. This work demonstrates in our dataset for breast cancer classification that incorporating non-image data with images can significantly improve predictive performance and that fusion of intermediate learned features is superior to fusion of final probabilities."
+abstract: "Imaging exams, such as chest radiography, will yield a small set of common findings and a much larger set of uncommon findings. While a trained radiologist can learn the visual presentation of rare conditions by studying a few representative examples, teaching a machine to learn from such a "long-tailed" distribution is much more difficult, as standard methods would be easily biased toward the most frequent classes. In this paper, we present a comprehensive benchmark study of the long-tailed learning problem in the specific domain of thorax diseases on chest X-rays. We focus on learning from naturally distributed chest X-ray data, optimizing classification accuracy over not only the common "head" classes, but also the rare yet critical "tail" classes. To accomplish this, we introduce a challenging new long-tailed chest X-ray benchmark to facilitate research on developing long-tailed learning methods for medical image classification. The benchmark consists of two chest X-ray datasets for 19- and 20-way thorax disease classification, containing classes with as many as 53,000 and as few as 7 labeled training images. We evaluate both standard and state-of-the-art long-tailed learning methods on this new benchmark, analyzing which aspects of these methods are most beneficial for long-tailed medical image classification and summarizing insights for future algorithm design. The datasets, trained models, and code are available at https://github.com/VITA-Group/LongTailCXR."
 
 # Summary. An optional shortened abstract.
-summary: <b style="font-size:120%;color:#3C94B5">CVAMD 2021 (ICCV Workshop)</b><br> Methods for jointly learning from breast imaging and tabular non-image data to predict breast cancer.
+summary: <b style="font-size:120%;color:#3C94B5">arXiv Preprint</b><br> A large-scale benchmark for long-tailed learning of chest X-rays.
 
 tags:
 - Source Themes
 featured: true
 
-url_pdf: ''
-url_code: 'https://github.com/gholste/breast_mri_fusion'
+url_pdf: 'https://arxiv.org/pdf/2208.13365.pdf'
+url_code: 'https://github.com/VITA-Group/LongTailCXR'
 url_dataset: ''
-url_poster: 'Holste_Poster_CVAMD2021.pdf'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
