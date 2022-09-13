@@ -8,8 +8,8 @@ design:
   columns: '2'
 ---
 
-* <b>[Aug. 2022]</b> Preprint out on automated detection of severe aortic stenosis powered by self-supervised and ensemble learning [[Paper](https://www.medrxiv.org/content/10.1101/2022.08.30.22279413v1)]
-* <b>[Jul. 2022]</b> Paper accepted to [DALI 2022](https://dali-miccai.github.io/) ([MICCAI 2022](https://conferences.miccai.org/2022/en/) workshop) and poster accepted to [RSNA 2022](https://www.rsna.org/annual-meeting) on long-tailed learning for chest X-rays
+* <b>[Aug. 2022]</b> Preprint out on automated detection of severe aortic stenosis [[Paper](https://www.medrxiv.org/content/10.1101/2022.08.30.22279413v1)]
+* <b>[Jul. 2022]</b> Paper accepted to [DALI 2022](https://dali-miccai.github.io/) ([MICCAI 2022](https://conferences.miccai.org/2022/en/) workshop) and abstract accepted to [RSNA 2022](https://www.rsna.org/annual-meeting) on long-tailed learning for chest X-rays
 * <b>[Jun. 2022]</b> Paper accepted to [IMLH 2022](https://sites.google.com/view/imlh2022/home?authuser=0) ([ICML 2022](https://icml.cc/) workshop) on self-supervised learning of echocardiogram videos [[Paper](https://arxiv.org/abs/2207.11581)] [[Code](https://github.com/cards-yale/echo-ssl-aortic-stenosis)] [[Poster](/media/imlh_2022_poster.pdf)]
 * <b>[May 2022]</b> Started my internship with the AI team at [Artera](https://artera.ai/)
 * <b>[Oct. 2021]</b> One paper accepted to [SPIE Medical Imaging 2022](https://spie.org/MI22/conferencedetails/computer-aided-diagnosis?enableBackToBrowse=true) on pediatric rib fracture detection
