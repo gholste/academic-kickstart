@@ -9,7 +9,7 @@ authors:
 - Ronald M. Summers
 - Yifan Peng
 - Zhangyang Wang
-date: "2022-08-29T00:00:00Z"
+date: "2022-09-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,30 +19,29 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv Preprint"
-publication_short: "arXiv"
+publication: "MICCAI Workshop on Data Augmentation, Labelling, and Imperfections 2022"
+publication_short: "DALI 2022"
 
 abstract: 'Imaging exams, such as chest radiography, will yield a small set of common findings and a much larger set of uncommon findings. While a trained radiologist can learn the visual presentation of rare conditions by studying a few representative examples, teaching a machine to learn from such a "long-tailed" distribution is much more difficult, as standard methods would be easily biased toward the most frequent classes. In this paper, we present a comprehensive benchmark study of the long-tailed learning problem in the specific domain of thorax diseases on chest X-rays. We focus on learning from naturally distributed chest X-ray data, optimizing classification accuracy over not only the common "head" classes, but also the rare yet critical "tail" classes. To accomplish this, we introduce a challenging new long-tailed chest X-ray benchmark to facilitate research on developing long-tailed learning methods for medical image classification. The benchmark consists of two chest X-ray datasets for 19- and 20-way thorax disease classification, containing classes with as many as 53,000 and as few as 7 labeled training images. We evaluate both standard and state-of-the-art long-tailed learning methods on this new benchmark, analyzing which aspects of these methods are most beneficial for long-tailed medical image classification and summarizing insights for future algorithm design. The datasets, trained models, and code are available at https://github.com/VITA-Group/LongTailCXR.'
 
 # Summary. An optional shortened abstract.
-summary: <b style="font-size:120%;color:#3C94B5">arXiv Preprint</b><br> A large-scale benchmark for long-tailed learning of chest X-rays.
+summary: <b style="font-size:120%;color:#3C94B5">MICCAI Workshop on Data Augmentation, Labelling, and Imperfections 2022</b><br> A large-scale benchmark for long-tailed learning of chest X-rays.
 
 tags:
 - Source Themes
 featured: true
 
-url_arXiv: 'https://arxiv.org/abs/2208.13365'
 url_pdf: 'https://arxiv.org/pdf/2208.13365.pdf'
 url_code: 'https://github.com/VITA-Group/LongTailCXR'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
-url_video: ''
+url_source: 'https://link.springer.com/chapter/10.1007/978-3-031-17027-0_3'
+url_video: 'https://drive.google.com/file/d/1IVylgwhPBs_HoaUQMvkX1R-7lXMANI7K/view?usp=sharing'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
