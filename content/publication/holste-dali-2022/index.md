@@ -34,7 +34,7 @@ tags:
 - Source Themes
 featured: true
 
-url_pdf: 'https://arxiv.org/pdf/2208.13365.pdf'
+url_pdf: ''
 url_code: 'https://github.com/VITA-Group/LongTailCXR'
 url_dataset: ''
 url_poster: ''
