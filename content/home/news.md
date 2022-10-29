@@ -8,7 +8,7 @@ design:
   columns: '2'
 ---
 
-* <b>[Oct. 2022]</b> Paper accepted to [IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) on weakly supervised localization in chest X-rays! [[arXiv](https://arxiv.org/abs/2207.04394)]
+* <b>[Oct. 2022]</b> Paper accepted to [IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) on weakly supervised localization in chest X-rays! [[Link](https://ieeexplore.ieee.org/document/9930800)] [[arXiv](https://arxiv.org/abs/2207.04394)]
 * <b>[Aug. 2022]</b> Preprint out on automated detection of severe aortic stenosis [[Paper](https://www.medrxiv.org/content/10.1101/2022.08.30.22279413v1)]
 * <b>[Jul. 2022]</b> Paper accepted to [DALI 2022](https://dali-miccai.github.io/) ([MICCAI 2022](https://conferences.miccai.org/2022/en/) workshop) and abstract accepted to [RSNA 2022](https://www.rsna.org/annual-meeting) on long-tailed learning for chest X-rays
 * <b>[Jun. 2022]</b> Paper accepted to [IMLH 2022](https://sites.google.com/view/imlh2022/home?authuser=0) ([ICML 2022](https://icml.cc/) workshop) on self-supervised learning of echocardiogram videos [[Paper](https://arxiv.org/abs/2207.11581)] [[Code](https://github.com/cards-yale/echo-ssl-aortic-stenosis)] [[Poster](/media/imlh_2022_poster.pdf)]
