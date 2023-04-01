@@ -8,6 +8,8 @@ design:
   columns: '2'
 ---
 
+* <b>[Mar. 2023]</b> Our workshop, Computer Vision for Automated Medical Diagnosis (CVAMD), was accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
+* <b>[Mar. 2023]</b> :tada: I was awarded the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/)!! :tada:
 * <b>[Jan. 2023]</b> Paper accepted to [ISBI 2023](http://2023.biomedicalimaging.org/en/) on multimodal fusion of histopathology imaging and clinical data from my internship with Artera!
 * <b>[Oct. 2022]</b> Paper accepted to [IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) on weakly supervised localization in chest X-rays! [[Link](https://ieeexplore.ieee.org/document/9930800)] [[arXiv](https://arxiv.org/abs/2207.04394)]
 * <b>[Aug. 2022]</b> Preprint out on automated detection of severe aortic stenosis [[Paper](https://www.medrxiv.org/content/10.1101/2022.08.30.22279413v1)]
