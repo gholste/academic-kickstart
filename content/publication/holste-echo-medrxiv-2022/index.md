@@ -1,17 +1,22 @@
 ---
-title: "Automated detection of severe aortic stenosis using single-view echocardiography: A self-supervised ensemble learning approach"
+title: "Automated severe aortic stenosis detection on single-view echocardiography: A multi-center deep learning study"
 authors:
 - Gregory Holste
 - Evangelos K. Oikonomou
 - Bobak J. Mortazavi
+- Andreas Coppi
 - Kamil F. Faridi
 - Edward J. Miller
 - John K. Forrest
 - Robert L. McNamara
+- Lucila Ohno-Machado
+- Neal Yuan
+- Aakriti Gupta
+- David Ouyang
 - Harlan M. Krumholz
 - Zhangyang Wang
 - Rohan Khera
-date: "2022-08-31T00:00:00Z"
+date: "2022-12-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,16 +32,22 @@ publication_types: ["3"]
 publication: "medRxiv Preprint"
 publication_short: "medRxiv"
 
-abstract: 'Given the difficulty of obtaining high-quality labels for medical image recognition tasks, there is a need for deep learning techniques that can be adequately fine-tuned on small labeled data sets. Recent advances in self-supervised learning techniques have shown that such an in-domain representation learning approach can provide a strong initialization for supervised fine-tuning, proving much more data-efficient than standard transfer learning from a supervised pretraining task. However, these applications are not adapted to applications to medical diagnostics captured in a video format. With this progress in mind, we developed a self-supervised learning approach catered to echocardiogram videos with the goal of learning strong representations for downstream fine-tuning on the task of diagnosing aortic stenosis (AS), a common and dangerous disease of the aortic valve. When fine-tuned on 1% of the training data, our best self-supervised learning model achieves 0.818 AUC (95% CI: 0.794, 0.840), while the standard transfer learning approach reaches 0.644 AUC (95% CI: 0.610, 0.677). We also find that our self-supervised model attends more closely to the aortic valve when predicting severe AS as demonstrated by saliency map visualizations.'
+abstract: 'Background and Aims: Early diagnosis of aortic stenosis (AS) is critical to prevent morbidity and mortality but requires skilled examination with Doppler imaging. This study reports the development and validation of a novel deep learning model that relies on 2-dimensional parasternal long axis (PLAX) videos from transthoracic echocardiography (TTE) without Doppler imaging to identify severe AS, suitable for point-of-care ultrasonography.
+
+Methods: In a training set of 5,257 studies (17,570 videos) from 2016-2020 (Yale-New Haven Hospital [YNHH], Connecticut), an ensemble of 3-dimensional convolutional neural networks was developed to detect severe AS, leveraging self-supervised contrastive pretraining for label-efficient model development. This deep learning model was validated in a temporally distinct set of 2,040 consecutive studies from 2021 from YNHH as well as two geographically distinct cohorts of 5,572 and 865 studies, from California and other hospitals in New England, respectively.
+
+Results: The deep learning model achieved an AUROC of 0.978 (95% CI: 0.966, 0.988) for detecting severe AS with 95.4% specificity and 90% sensitivity in the temporally distinct test set, maintaining its diagnostic performance in both geographically distinct cohorts (AUROC 0.972 [95% CI: 0.969, 0.975] in California and 0.915 [95% CI: 0.896, 0.933] in New England, respectively). The model was interpretable with saliency maps identifying the aortic valve as the predictive region. Among non-severe AS cases, predicted probabilities were associated with worse quantitative metrics of AS suggesting association with various stages of AS severity.
+
+Conclusions: This study developed and externally validated an automated approach for severe AS detection using single-view 2D echocardiography, with implications for point-of-care screening.'
 
 # Summary. An optional shortened abstract.
-summary: <b style="font-size:120%;color:#3C94B5">medRxiv Preprint</b><br> Accurate detection of severe aortic stenosis based on self-supervised and ensemble learning of single-view echocardiograms.
+summary: <b style="font-size:120%;color:#3C94B5">medRxiv Preprint</b><br> Accurate and generalizable detection of severe aortic stenosis based on single-view echocardiography.
 
 tags:
 - Source Themes
 featured: true
 
-url_pdf: 'https://www.medrxiv.org/content/10.1101/2022.08.30.22279413v1.full.pdf'
+url_pdf: 'https://www.medrxiv.org/content/10.1101/2022.08.30.22279413v2.full.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
