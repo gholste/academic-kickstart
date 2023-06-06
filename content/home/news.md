@@ -8,6 +8,7 @@ design:
   columns: '2'
 ---
 
+* <b>[Apr. 2023]</b> Paper early accepted (top 14%) to [MICCAI 2023](https://conferences.miccai.org/2023/en/) on pruning chest X-ray classifiers!
 * <b>[Mar. 2023]</b> Our workshop, Computer Vision for Automated Medical Diagnosis (CVAMD), was accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
 * <b>[Mar. 2023]</b> :tada: I was awarded the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/)!! :tada:
 * <b>[Jan. 2023]</b> Paper accepted to [ISBI 2023](http://2023.biomedicalimaging.org/en/) on multimodal fusion of histopathology imaging and clinical data from my internship with Artera!
