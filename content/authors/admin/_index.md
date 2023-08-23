@@ -50,7 +50,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/HolsteCV100822.pdf
+  link: media/HolsteCV081323.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
