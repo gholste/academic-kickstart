@@ -16,8 +16,8 @@ authors:
 - Harlan M. Krumholz
 - Zhangyang Wang
 - Rohan Khera
-date: "2023-23-04T00:00:00Z"
-doi: "https://doi.org/10.1093/eurheartj/ehad456"
+date: "2023-08-23T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -45,13 +45,13 @@ tags:
 - Source Themes
 featured: true
 
-url_pdf: 'https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad456/7248551'
+url_pdf: ''
 url_code: 'https://github.com/CarDS-Yale/echo-severe-AS'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad456/7248551'
 url_video: ''
 
 # Featured image
