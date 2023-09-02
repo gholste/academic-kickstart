@@ -17,7 +17,7 @@ authors:
 - Zhangyang Wang
 - Rohan Khera
 date: "2023-23-08T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1093/eurheartj/ehad456"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
