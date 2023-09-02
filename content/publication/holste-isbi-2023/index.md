@@ -32,13 +32,13 @@ tags:
 - Source Themes
 featured: true
 
-url_pdf: 'https://ieeexplore.ieee.org/document/10230356'
+url_source: 'https://ieeexplore.ieee.org/document/10230356'
+url_pdf: 'https://arxiv.org/pdf/2304.00379.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
 url_video: ''
 
 # Featured image
