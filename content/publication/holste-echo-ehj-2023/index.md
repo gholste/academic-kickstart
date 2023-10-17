@@ -46,7 +46,7 @@ tags:
 featured: true
 
 url_source: 'https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad456/7248551'
-url_pdf: ''
+url_pdf: 'mailto:gholste@utexas.edu'
 url_code: 'https://github.com/CarDS-Yale/echo-severe-AS'
 url_dataset: ''
 url_poster: ''

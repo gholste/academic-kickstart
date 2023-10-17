@@ -29,23 +29,23 @@ publishDate: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv Preprint (Accepted to MICCAI 2023)"
-publication_short: "arXiv"
+publication: "MICCAI 2023"
+publication_short: "MICCAI"
 
 abstract: Pruning has emerged as a powerful technique for compressing deep neural networks, reducing memory usage and inference time without significantly affecting overall performance. However, the nuanced ways in which pruning impacts model behavior are not well understood, particularly for long-tailed, multi-label datasets commonly found in clinical settings. This knowledge gap could have dangerous implications when deploying a pruned model for diagnosis, where unexpected model behavior could impact patient well-being. To fill this gap, we perform the first analysis of pruning's effect on neural networks trained to diagnose thorax diseases from chest X-rays (CXRs). On two large CXR datasets, we examine which diseases are most affected by pruning and characterize class "forgettability" based on disease frequency and co-occurrence behavior. Further, we identify individual CXRs where uncompressed and heavily pruned models disagree, known as pruning-identified exemplars (PIEs), and conduct a human reader study to evaluate their unifying qualities. We find that radiologists perceive PIEs as having more label noise, lower image quality, and higher diagnosis difficulty. This work represents a first step toward understanding the impact of pruning on model behavior in deep long-tailed, multi-label medical image classification. All code, model weights, and data access instructions can be found at https://github.com/VITA-Group/PruneCXR.
 
 # Summary. An optional shortened abstract.
-summary: <b style="font-size:120%;color:#3C94B5">arXiv Preprint (Accepted to MICCAI 2023)</b><br> An investigation of pruning's impact on multi-label, long-tailed medical image classifiers.
+summary: <b style="font-size:120%;color:#3C94B5">MICCAI 2023</b><br> An investigation of pruning's impact on long-tailed, multi-label medical image classifiers.
 
 tags:
 - Source Themes
 featured: true
 
-url_source: ''
+url_source: 'https://link.springer.com/chapter/10.1007/978-3-031-43904-9_64'
 url_pdf: 'https://arxiv.org/pdf/2308.09180.pdf'
-url_code: ''
+url_code: 'https://github.com/VITA-Group/PruneCXR'
 url_dataset: ''
-url_poster: ''
+url_poster: 'Holste_MICCAI_2023_ePoster_v1.pdf'
 url_project: ''
 url_slides: ''
 url_video: ''
