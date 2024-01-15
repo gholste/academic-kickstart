@@ -8,6 +8,7 @@ design:
   columns: '2'
 ---
 
+* <b>[Jan. 2024]</b> Paper accepted to [JAMIA](https://academic.oup.com/jamia) on self-supervised learning for electrocardiographic (ECG) images
 * <b>[Aug. 2023]</b> Paper accepted to [Nature Communications](https://www.nature.com/ncomms/) on fairness in chest X-ray classification
 * <b>[Jun. 2023]</b> Paper accepted to [European Heart Journal](https://academic.oup.com/eurheartj) on severe aortic stenosis detection!
 * <b>[May 2023]</b> Paper early accepted (top 14%) to [MICCAI 2023](https://conferences.miccai.org/2023/en/) on pruning chest X-ray classifiers!
