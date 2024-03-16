@@ -8,6 +8,8 @@ design:
   columns: '2'
 ---
 
+* <b>[Mar. 2024]</b> Our challenge "CXR-LT: Long-tailed, multi-label, and zero-shot classification on chest X-rays" was accepted to MICCAI 2024
+* <b>[Feb. 2024]</b> Paper accepted to [JAMA Cardiology](https://jamanetwork.com/journals/jamacardiology) on detecting aortic stenosis progression with deep learning [[Preprint](https://www.medrxiv.org/content/10.1101/2023.09.28.23296234v2)]
 * <b>[Jan. 2024]</b> Paper accepted to [JAMIA](https://academic.oup.com/jamia) on self-supervised learning for electrocardiographic (ECG) images
 * <b>[Aug. 2023]</b> Paper accepted to [Nature Communications](https://www.nature.com/ncomms/) on fairness in chest X-ray classification
 * <b>[Jun. 2023]</b> Paper accepted to [European Heart Journal](https://academic.oup.com/eurheartj) on severe aortic stenosis detection!
