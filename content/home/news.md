@@ -8,6 +8,7 @@ design:
   columns: '2'
 ---
 
+* <b>[Apr. 2024]</b> Paper accepted to [Scientific Reports](https://www.nature.com/srep/) on pediatric rib fracture detection
 * <b>[Mar. 2024]</b> Our challenge "CXR-LT: Long-tailed, multi-label, and zero-shot classification on chest X-rays" was accepted to MICCAI 2024
 * <b>[Feb. 2024]</b> Paper accepted to [JAMA Cardiology](https://jamanetwork.com/journals/jamacardiology) on detecting aortic stenosis progression with deep learning [[Preprint](https://www.medrxiv.org/content/10.1101/2023.09.28.23296234v2)]
 * <b>[Jan. 2024]</b> Paper accepted to [JAMIA](https://academic.oup.com/jamia) on self-supervised learning for electrocardiographic (ECG) images
