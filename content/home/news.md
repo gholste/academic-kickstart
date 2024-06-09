@@ -8,6 +8,8 @@ design:
   columns: '2'
 ---
 
+* <b>[May 2024]</b> Paper accepted to [Communications Medicine](https://www.nature.com/commsmed) on contrastive learning for echocardiography
+* <b>[May 2024]</b> Paper accepted to [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis) summarizing the CXR-LT challenge
 * <b>[Apr. 2024]</b> Paper accepted to [Scientific Reports](https://www.nature.com/srep/) on pediatric rib fracture detection
 * <b>[Mar. 2024]</b> Our challenge "CXR-LT: Long-tailed, multi-label, and zero-shot classification on chest X-rays" was accepted to MICCAI 2024
 * <b>[Feb. 2024]</b> Paper accepted to [JAMA Cardiology](https://jamanetwork.com/journals/jamacardiology) on detecting aortic stenosis progression with deep learning [[Preprint](https://www.medrxiv.org/content/10.1101/2023.09.28.23296234v2)]
@@ -15,7 +17,7 @@ design:
 * <b>[Aug. 2023]</b> Paper accepted to [Nature Communications](https://www.nature.com/ncomms/) on fairness in chest X-ray classification
 * <b>[Jun. 2023]</b> Paper accepted to [European Heart Journal](https://academic.oup.com/eurheartj) on severe aortic stenosis detection!
 * <b>[May 2023]</b> Paper early accepted (top 14%) to [MICCAI 2023](https://conferences.miccai.org/2023/en/) on pruning chest X-ray classifiers!
-* <b>[Mar. 2023]</b> Our workshop, Computer Vision for Automated Medical Diagnosis (CVAMD), was accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
+* <b>[Mar. 2023]</b> Our workshop, Computer Vision for Automated Medical Diagnosis (CVAMD), was accepted to [ICCV 2023](https://iccv2023.thecvf.com/)
 * <b>[Mar. 2023]</b> :tada: I was awarded the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/)!! :tada:
 * <b>[Jan. 2023]</b> Paper accepted to [ISBI 2023](http://2023.biomedicalimaging.org/en/) on multimodal fusion of histopathology imaging and clinical data from my internship with Artera!
 * <b>[Oct. 2022]</b> Paper accepted to [IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/) on weakly supervised localization in chest X-rays! [[Link](https://ieeexplore.ieee.org/document/9930800)] [[arXiv](https://arxiv.org/abs/2207.04394)]
