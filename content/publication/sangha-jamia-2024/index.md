@@ -30,7 +30,7 @@ abstract: "**Objective**: Artificial intelligence (AI) detects heart disease fro
 **Discussion and Conclusion**:A pretraining strategy that leverages biometric signatures of different ECGs from the same patient enhances the efficiency of developing AI models for ECG images. This represents a major advance in detecting disorders from ECG images with limited labeled data."
 
 # Summary. An optional shortened abstract.
-summary: <b style="font-size:120%;color:#3C94B5">JAMIA</b><br> Label-efficient electrocardiogram (ECG) image classification with contrastive learning.
+summary: <b style="font-size:120%;color:#3C94B5">Journal of the American Medical Informatics Association</b><br> Label-efficient electrocardiogram (ECG) image classification with contrastive learning.
 
 tags:
 - Source Themes
