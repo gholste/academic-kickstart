@@ -6,7 +6,7 @@ title: Greg Holste
 superuser: true
 
 # Role/position
-role: Ph.D. Student<br>[ECE Department](https://www.ece.utexas.edu), [UT Austin](https://www.utexas.edu)
+role: Ph.D. Candidate<br>[ECE Department](https://www.ece.utexas.edu), [UT Austin](https://www.utexas.edu)
 
 # Organizations/Affiliations
 organizations:
@@ -17,17 +17,20 @@ organizations:
 <!---bio: My research interests include distributed robotics, mobile computing and programmable matter.--->
 
 interests:
-- Medical Computer Vision
-- Automated Diagnosis
-- Multimodal Learning
-- Self-Supervised Learning
-- Imbalanced Learning
+- Medical image analysis
+- Computer-aided diagnosis
+- Multimodal learning
+- Self-supervised learning
+- Long-tailed learning
 
 education:
   courses:
   - course: Ph.D. in Electrical Engineering
     institution: The University of Texas at Austin
     year: 2021-present
+  - course: M.S.E. in Electrical Engineering
+    institution: The University of Texas at Austin
+    year: 2021-2024
   - course: B.A. in Mathematics
     institution: Kenyon College
     year: 2016-2020
@@ -65,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student in Electrical Engineering at The University of Texas at Austin advised by [Atlas Wang](https://spark.adobe.com/page/CAdrFMJ9QeI2y/). As part of the [**V**isual **I**nformatics @ U**T** **A**ustin (VITA)](https://vita-group.github.io/index.html) group, I develop deep learning and computer vision techniques to solve clinical decision-making and medical image analysis problems. My research is funded by the [NSF Graduate Research Fellowship Program (GRFP)](https://www.nsfgrfp.org/). [[CV]](https://gholste.me/media/HolsteCV081323.pdf)<br><br>
+I am a Ph.D. candidate in Electrical Engineering at The University of Texas at Austin advised by [Atlas Wang](https://spark.adobe.com/page/CAdrFMJ9QeI2y/). As part of the [**V**isual **I**nformatics @ U**T** **A**ustin (VITA)](https://vita-group.github.io/index.html) group, I develop deep learning and computer vision techniques to solve clinical decision-making and medical image analysis problems. My research is funded by the [NSF Graduate Research Fellowship Program (GRFP)](https://www.nsfgrfp.org/). [[CV]](https://gholste.me/media/HolsteCV081323.pdf)<br><br>
 
 Previously, I have worked with the [Medical Imaging and Data Integration (MIDI) Lab](https://www.midilab.org/) at Michigan State University under Adam Alessio on multimodal learning for breast cancer prediction and pediatric rib fracture detection.

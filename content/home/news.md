@@ -8,6 +8,7 @@ design:
   columns: '2'
 ---
 
+* <b>[Jun. 2024]</b> Paper accepted to [Radiology: Artificial Intelligence](https://pubs.rsna.org/journal/ai) on contrastive learning for improved fairness in chest X-ray classification
 * <b>[May 2024]</b> Paper accepted to [Communications Medicine](https://www.nature.com/commsmed) on contrastive learning for echocardiography
 * <b>[May 2024]</b> Paper accepted to [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis) summarizing the CXR-LT challenge
 * <b>[Apr. 2024]</b> Paper accepted to [Scientific Reports](https://www.nature.com/srep/) on pediatric rib fracture detection
