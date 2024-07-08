@@ -53,7 +53,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/HolsteCV070224.pdf
+  link: media/HolsteCV070624.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. candidate in Electrical Engineering at The University of Texas at Austin advised by [Atlas Wang](https://spark.adobe.com/page/CAdrFMJ9QeI2y/). As part of the [**V**isual **I**nformatics @ U**T** **A**ustin (VITA)](https://vita-group.github.io/index.html) group, I develop deep learning and computer vision techniques to solve clinical decision-making and medical image analysis problems. My research is funded by the [NSF Graduate Research Fellowship Program (GRFP)](https://www.nsfgrfp.org/). [[CV]](https://gholste.me/media/HolsteCV070224.pdf)<br><br>
+I am a Ph.D. candidate in Electrical Engineering at The University of Texas at Austin advised by [Atlas Wang](https://spark.adobe.com/page/CAdrFMJ9QeI2y/). As part of the [**V**isual **I**nformatics @ U**T** **A**ustin (VITA)](https://vita-group.github.io/index.html) group, I develop deep learning and computer vision techniques to solve clinical decision-making and medical image analysis problems. My research is funded by the [NSF Graduate Research Fellowship Program (GRFP)](https://www.nsfgrfp.org/). [[CV]](https://gholste.me/media/HolsteCV070624.pdf)<br><br>
 
 Previously, I have worked with the [Medical Imaging and Data Integration (MIDI) Lab](https://www.midilab.org/) at Michigan State University under Adam Alessio on multimodal learning for breast cancer prediction and pediatric rib fracture detection.
