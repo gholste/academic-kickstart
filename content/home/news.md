@@ -8,11 +8,12 @@ design:
   columns: '2'
 ---
 
+* <b>[Jul. 2024]</b> Paper accepted to [npj Digital Medicine](https://www.nature.com/npjdigitalmed/) on deep survival analysis from longitudinal medical imaging
 * <b>[Jun. 2024]</b> Paper accepted to [Radiology: Artificial Intelligence](https://pubs.rsna.org/journal/ai) on contrastive learning for improved fairness in chest X-ray classification
 * <b>[May 2024]</b> Paper accepted to [Communications Medicine](https://www.nature.com/commsmed) on contrastive learning for echocardiography
 * <b>[May 2024]</b> Paper accepted to [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis) summarizing the CXR-LT challenge
 * <b>[Apr. 2024]</b> Paper accepted to [Scientific Reports](https://www.nature.com/srep/) on pediatric rib fracture detection
-* <b>[Mar. 2024]</b> Our challenge "CXR-LT: Long-tailed, multi-label, and zero-shot classification on chest X-rays" was accepted to MICCAI 2024
+* <b>[Mar. 2024]</b> Our challenge, [CXR-LT](https://bionlplab.github.io/2024_MICCAI_CXRLT/), was accepted to [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 * <b>[Feb. 2024]</b> Paper accepted to [JAMA Cardiology](https://jamanetwork.com/journals/jamacardiology) on detecting aortic stenosis progression with deep learning [[Preprint](https://www.medrxiv.org/content/10.1101/2023.09.28.23296234v2)]
 * <b>[Jan. 2024]</b> Paper accepted to [JAMIA](https://academic.oup.com/jamia) on self-supervised learning for electrocardiographic (ECG) images
 * <b>[Aug. 2023]</b> Paper accepted to [Nature Communications](https://www.nature.com/ncomms/) on fairness in chest X-ray classification
