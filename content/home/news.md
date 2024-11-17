@@ -8,7 +8,7 @@ design:
   columns: '2'
 ---
 
-* <b>[Sep. 2024]</b> [PanEcho](https://www.cards-lab.org/panecho) accepted for oral presentation as **Late-Breaking Science** at [AHA 24](https://professional.heart.org/en/meetings/scientific-sessions) [[News Release](https://newsroom.heart.org/news/ai-image-recognition-program-could-read-heart-images-faster-speed-care)]!
+* <b>[Sep. 2024]</b> [PanEcho](https://www.cards-lab.org/panecho) accepted for oral presentation as **Late-Breaking Science** at [AHA 24](https://professional.heart.org/en/meetings/scientific-sessions)! [[News Release](https://newsroom.heart.org/news/ai-image-recognition-program-could-read-heart-images-faster-speed-care)]
 * <b>[Jul. 2024]</b> PanEcho accepted for oral presentation at the [AI in Health Conference](https://www.aihealthconference.com/)
 * <b>[Jul. 2024]</b> Paper accepted to [npj Digital Medicine](https://www.nature.com/npjdigitalmed/) on deep survival analysis from longitudinal medical imaging
 * <b>[Jun. 2024]</b> Paper accepted to [Radiology: Artificial Intelligence](https://pubs.rsna.org/journal/ai) on contrastive learning for improved fairness in chest X-ray classification
